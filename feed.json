@@ -2,18 +2,18 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "PRIMORDIAL SOUPS",
     "description": "",
-    "home_page_url": "http://primordialsoups.com",
-    "feed_url": "http://primordialsoups.com/feed.json",
+    "home_page_url": "https://primordialsoups.com",
+    "feed_url": "https://primordialsoups.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Primordial Soup"
     },
     "items": [
         {
-            "id": "http://primordialsoups.com/yes-10-7/",
-            "url": "http://primordialsoups.com/yes-10-7/",
+            "id": "https://primordialsoups.com/yes-10-7/",
+            "url": "https://primordialsoups.com/yes-10-7/",
             "title": "Feathers",
-            "image": "http://primordialsoups.com/media/posts/19/4.jpg",
+            "image": "https://primordialsoups.com/media/posts/19/4.jpg",
             "author": {
                 "name": "Primordial Soup"
             },
@@ -25,10 +25,10 @@
             "date_modified": "2025-04-02T15:42:28+02:00"
         },
         {
-            "id": "http://primordialsoups.com/yes-10-6/",
-            "url": "http://primordialsoups.com/yes-10-6/",
+            "id": "https://primordialsoups.com/yes-10-6/",
+            "url": "https://primordialsoups.com/yes-10-6/",
             "title": "Wonderland",
-            "image": "http://primordialsoups.com/media/posts/18/5.jpg",
+            "image": "https://primordialsoups.com/media/posts/18/5.jpg",
             "author": {
                 "name": "Primordial Soup"
             },
@@ -40,10 +40,10 @@
             "date_modified": "2025-04-02T15:42:11+02:00"
         },
         {
-            "id": "http://primordialsoups.com/yes-10-5/",
-            "url": "http://primordialsoups.com/yes-10-5/",
+            "id": "https://primordialsoups.com/yes-10-5/",
+            "url": "https://primordialsoups.com/yes-10-5/",
             "title": "Deep Fish",
-            "image": "http://primordialsoups.com/media/posts/17/6.jpg",
+            "image": "https://primordialsoups.com/media/posts/17/6.jpg",
             "author": {
                 "name": "Primordial Soup"
             },
@@ -55,10 +55,10 @@
             "date_modified": "2025-04-02T15:41:34+02:00"
         },
         {
-            "id": "http://primordialsoups.com/yes-12-2/",
-            "url": "http://primordialsoups.com/yes-12-2/",
+            "id": "https://primordialsoups.com/yes-12-2/",
+            "url": "https://primordialsoups.com/yes-12-2/",
             "title": "Nosy",
-            "image": "http://primordialsoups.com/media/posts/16/11.jpg",
+            "image": "https://primordialsoups.com/media/posts/16/11.jpg",
             "author": {
                 "name": "Primordial Soup"
             },
@@ -71,10 +71,10 @@
             "date_modified": "2025-04-02T15:41:00+02:00"
         },
         {
-            "id": "http://primordialsoups.com/yes-12/",
-            "url": "http://primordialsoups.com/yes-12/",
+            "id": "https://primordialsoups.com/yes-12/",
+            "url": "https://primordialsoups.com/yes-12/",
             "title": "Good Day/Bad Day",
-            "image": "http://primordialsoups.com/media/posts/15/10.jpg",
+            "image": "https://primordialsoups.com/media/posts/15/10.jpg",
             "author": {
                 "name": "Primordial Soup"
             },
@@ -87,10 +87,10 @@
             "date_modified": "2025-04-02T15:40:21+02:00"
         },
         {
-            "id": "http://primordialsoups.com/yes-10-4/",
-            "url": "http://primordialsoups.com/yes-10-4/",
+            "id": "https://primordialsoups.com/yes-10-4/",
+            "url": "https://primordialsoups.com/yes-10-4/",
             "title": "Shroom Head",
-            "image": "http://primordialsoups.com/media/posts/14/7.jpg",
+            "image": "https://primordialsoups.com/media/posts/14/7.jpg",
             "author": {
                 "name": "Primordial Soup"
             },
@@ -102,10 +102,10 @@
             "date_modified": "2025-04-02T15:39:03+02:00"
         },
         {
-            "id": "http://primordialsoups.com/yes-10-3/",
-            "url": "http://primordialsoups.com/yes-10-3/",
+            "id": "https://primordialsoups.com/yes-10-3/",
+            "url": "https://primordialsoups.com/yes-10-3/",
             "title": "Fungi",
-            "image": "http://primordialsoups.com/media/posts/13/8.jpg",
+            "image": "https://primordialsoups.com/media/posts/13/8.jpg",
             "author": {
                 "name": "Primordial Soup"
             },
@@ -117,10 +117,10 @@
             "date_modified": "2025-04-02T15:38:07+02:00"
         },
         {
-            "id": "http://primordialsoups.com/yes-10-2/",
-            "url": "http://primordialsoups.com/yes-10-2/",
+            "id": "https://primordialsoups.com/yes-10-2/",
+            "url": "https://primordialsoups.com/yes-10-2/",
             "title": "Witch(es)",
-            "image": "http://primordialsoups.com/media/posts/11/12.jpg",
+            "image": "https://primordialsoups.com/media/posts/11/12.jpg",
             "author": {
                 "name": "Primordial Soup"
             },
@@ -132,10 +132,10 @@
             "date_modified": "2025-04-02T15:36:17+02:00"
         },
         {
-            "id": "http://primordialsoups.com/yes-10/",
-            "url": "http://primordialsoups.com/yes-10/",
+            "id": "https://primordialsoups.com/yes-10/",
+            "url": "https://primordialsoups.com/yes-10/",
             "title": "Submarine",
-            "image": "http://primordialsoups.com/media/posts/10/13.jpg",
+            "image": "https://primordialsoups.com/media/posts/10/13.jpg",
             "author": {
                 "name": "Primordial Soup"
             },
@@ -147,10 +147,10 @@
             "date_modified": "2025-04-02T15:35:51+02:00"
         },
         {
-            "id": "http://primordialsoups.com/yes-9/",
-            "url": "http://primordialsoups.com/yes-9/",
+            "id": "https://primordialsoups.com/yes-9/",
+            "url": "https://primordialsoups.com/yes-9/",
             "title": "Hover",
-            "image": "http://primordialsoups.com/media/posts/9/14.jpg",
+            "image": "https://primordialsoups.com/media/posts/9/14.jpg",
             "author": {
                 "name": "Primordial Soup"
             },

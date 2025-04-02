@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>PRIMORDIAL SOUPS</title>
-    <link href="http://primordialsoups.com/feed.xml" rel="self" />
-    <link href="http://primordialsoups.com" />
+    <link href="https://primordialsoups.com/feed.xml" rel="self" />
+    <link href="https://primordialsoups.com" />
     <updated>2025-04-02T15:42:28+02:00</updated>
     <author>
         <name>Primordial Soup</name>
     </author>
-    <id>http://primordialsoups.com</id>
+    <id>https://primordialsoups.com</id>
 
     <entry>
         <title>Feathers</title>
         <author>
             <name>Primordial Soup</name>
         </author>
-        <link href="http://primordialsoups.com/yes-10-7/"/>
-        <id>http://primordialsoups.com/yes-10-7/</id>
-        <media:content url="http://primordialsoups.com/media/posts/19/4.jpg" medium="image" />
+        <link href="https://primordialsoups.com/yes-10-7/"/>
+        <id>https://primordialsoups.com/yes-10-7/</id>
+        <media:content url="https://primordialsoups.com/media/posts/19/4.jpg" medium="image" />
             <category term="Valeria"/>
             <category term="Solo"/>
 
@@ -29,9 +29,9 @@
         <author>
             <name>Primordial Soup</name>
         </author>
-        <link href="http://primordialsoups.com/yes-10-6/"/>
-        <id>http://primordialsoups.com/yes-10-6/</id>
-        <media:content url="http://primordialsoups.com/media/posts/18/5.jpg" medium="image" />
+        <link href="https://primordialsoups.com/yes-10-6/"/>
+        <id>https://primordialsoups.com/yes-10-6/</id>
+        <media:content url="https://primordialsoups.com/media/posts/18/5.jpg" medium="image" />
             <category term="Valeria"/>
             <category term="Solo"/>
 
@@ -44,9 +44,9 @@
         <author>
             <name>Primordial Soup</name>
         </author>
-        <link href="http://primordialsoups.com/yes-10-5/"/>
-        <id>http://primordialsoups.com/yes-10-5/</id>
-        <media:content url="http://primordialsoups.com/media/posts/17/6.jpg" medium="image" />
+        <link href="https://primordialsoups.com/yes-10-5/"/>
+        <id>https://primordialsoups.com/yes-10-5/</id>
+        <media:content url="https://primordialsoups.com/media/posts/17/6.jpg" medium="image" />
             <category term="Valeria"/>
             <category term="Solo"/>
 
@@ -59,9 +59,9 @@
         <author>
             <name>Primordial Soup</name>
         </author>
-        <link href="http://primordialsoups.com/yes-12-2/"/>
-        <id>http://primordialsoups.com/yes-12-2/</id>
-        <media:content url="http://primordialsoups.com/media/posts/16/11.jpg" medium="image" />
+        <link href="https://primordialsoups.com/yes-12-2/"/>
+        <id>https://primordialsoups.com/yes-12-2/</id>
+        <media:content url="https://primordialsoups.com/media/posts/16/11.jpg" medium="image" />
             <category term="Hugo"/>
             <category term="Collaboration"/>
             <category term="Camilla"/>
@@ -75,9 +75,9 @@
         <author>
             <name>Primordial Soup</name>
         </author>
-        <link href="http://primordialsoups.com/yes-12/"/>
-        <id>http://primordialsoups.com/yes-12/</id>
-        <media:content url="http://primordialsoups.com/media/posts/15/10.jpg" medium="image" />
+        <link href="https://primordialsoups.com/yes-12/"/>
+        <id>https://primordialsoups.com/yes-12/</id>
+        <media:content url="https://primordialsoups.com/media/posts/15/10.jpg" medium="image" />
             <category term="Nana"/>
             <category term="Hugo"/>
             <category term="Collaboration"/>
@@ -91,9 +91,9 @@
         <author>
             <name>Primordial Soup</name>
         </author>
-        <link href="http://primordialsoups.com/yes-10-4/"/>
-        <id>http://primordialsoups.com/yes-10-4/</id>
-        <media:content url="http://primordialsoups.com/media/posts/14/7.jpg" medium="image" />
+        <link href="https://primordialsoups.com/yes-10-4/"/>
+        <id>https://primordialsoups.com/yes-10-4/</id>
+        <media:content url="https://primordialsoups.com/media/posts/14/7.jpg" medium="image" />
             <category term="Valeria"/>
             <category term="Solo"/>
 
@@ -106,9 +106,9 @@
         <author>
             <name>Primordial Soup</name>
         </author>
-        <link href="http://primordialsoups.com/yes-10-3/"/>
-        <id>http://primordialsoups.com/yes-10-3/</id>
-        <media:content url="http://primordialsoups.com/media/posts/13/8.jpg" medium="image" />
+        <link href="https://primordialsoups.com/yes-10-3/"/>
+        <id>https://primordialsoups.com/yes-10-3/</id>
+        <media:content url="https://primordialsoups.com/media/posts/13/8.jpg" medium="image" />
             <category term="Valeria"/>
             <category term="Solo"/>
 
@@ -121,9 +121,9 @@
         <author>
             <name>Primordial Soup</name>
         </author>
-        <link href="http://primordialsoups.com/yes-10-2/"/>
-        <id>http://primordialsoups.com/yes-10-2/</id>
-        <media:content url="http://primordialsoups.com/media/posts/11/12.jpg" medium="image" />
+        <link href="https://primordialsoups.com/yes-10-2/"/>
+        <id>https://primordialsoups.com/yes-10-2/</id>
+        <media:content url="https://primordialsoups.com/media/posts/11/12.jpg" medium="image" />
             <category term="Solo"/>
             <category term="Hugo"/>
 
@@ -136,9 +136,9 @@
         <author>
             <name>Primordial Soup</name>
         </author>
-        <link href="http://primordialsoups.com/yes-10/"/>
-        <id>http://primordialsoups.com/yes-10/</id>
-        <media:content url="http://primordialsoups.com/media/posts/10/13.jpg" medium="image" />
+        <link href="https://primordialsoups.com/yes-10/"/>
+        <id>https://primordialsoups.com/yes-10/</id>
+        <media:content url="https://primordialsoups.com/media/posts/10/13.jpg" medium="image" />
             <category term="Solo"/>
             <category term="Hugo"/>
 
@@ -151,9 +151,9 @@
         <author>
             <name>Primordial Soup</name>
         </author>
-        <link href="http://primordialsoups.com/yes-9/"/>
-        <id>http://primordialsoups.com/yes-9/</id>
-        <media:content url="http://primordialsoups.com/media/posts/9/14.jpg" medium="image" />
+        <link href="https://primordialsoups.com/yes-9/"/>
+        <id>https://primordialsoups.com/yes-9/</id>
+        <media:content url="https://primordialsoups.com/media/posts/9/14.jpg" medium="image" />
             <category term="Solo"/>
             <category term="Hugo"/>
 
